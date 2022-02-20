@@ -3,9 +3,7 @@
 
 int main()
 {
-	//TODO: if you want to test your functions, write your code here
-	
-	
-	
+	cout<<"Result: "<<  findMinValue(4,5,2)  <<endl;
+	system("pause");
 	return 0;
 }
